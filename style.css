@@ -486,7 +486,7 @@ label{
 }
 .hero{
     width: 100%;
-    height: 100vh;
+    height: 1000px;
     background: #c8ecc7;
     display: flex;
     flex-direction: column;
@@ -652,6 +652,13 @@ label{
     height: 100vh;
     width: 100%;
     background-color: red;
+}
+.last-logo{
+width: 200px;
+    height: 200px;
+    margin-top: 65px;
+    position: absolute;
+    bottom: 75%;
 }
 
 
